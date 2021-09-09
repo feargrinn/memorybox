@@ -8,15 +8,12 @@ In this simple game you try to keep yourself healthy and sane while staying in y
 
 ![Main game room](/assets/images/s2.png)
 <br>
-![Main game room](/assets/images/s3.png)
-<br>
 ![Main game room](/assets/images/s4.png)
+![Main game room](/assets/images/s6.png)
 <br>
 ![Main game room](/assets/images/s5.png)
 <br>
-![Main game room](/assets/images/s6.png)
-<br>
-![Main game room](/assets/images/s7.png)
-<br>
 ![Main game room](/assets/images/s8.png)
+<br>
+![Main game room](/assets/images/s3.png)
 <br>
