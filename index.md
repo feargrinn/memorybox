@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Survive in quarantine
 
-You can use the [editor on GitHub](https://github.com/feargrinn/memorybox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Main game room](/memorybox/assets/images/s1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this simple game you try to keep yourself healthy and sane while staying in your room. Fortunately you're not alone. On your journey you have friends like Monica The Fern and Sharkie The Slightly-Dirty-From-Hugging-Lots Plushie. They offer much needed company and life changing advice as you progress through each day.
 
-### Markdown
+### Screenshots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feargrinn/memorybox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Main game room](/memorybox/assets/images/s2.png)
+<br>
+![Main game room](/memorybox/assets/images/s3.png)
+<br>
+![Main game room](/memorybox/assets/images/s4.png)
+<br>
+![Main game room](/memorybox/assets/images/s5.png)
+<br>
+![Main game room](/memorybox/assets/images/s6.png)
+<br>
+![Main game room](/memorybox/assets/images/s7.png)
+<br>
+![Main game room](/memorybox/assets/images/s8.png)
+<br>
