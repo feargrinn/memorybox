@@ -18,5 +18,7 @@ You can download the game for Windows [here](memorybox.zip).
 <br>
 ![Main game room](/assets/images/s8.png)
 <br>
+#### Secret game lore: My best friend made the KOSMOS poster, its so cool.
+<br>
 ![Main game room](/assets/images/s3.png)
 <br>
