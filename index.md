@@ -4,6 +4,9 @@
 
 In this simple game you try to keep yourself healthy and sane while staying in your room. Fortunately you're not alone. On your journey you have friends like Monica The Fern and Sharkie The Slightly-Dirty-From-Hugging-Lots Plushie. They offer much needed company and life changing advice as you progress through each day.
 
+### Download
+[You can download the game here](memorybox.zip) (Windows .exe file).
+
 ### Screenshots
 
 ![Main game room](/assets/images/s2.png)
